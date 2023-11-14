@@ -4,9 +4,9 @@ using namespace std;
 int main()
 {
 	float a, b;
-	cout << "ÇëÊäÈë»ªÊ½ÎÂ¶È:";
+	cout << "è¯·è¾“å…¥åå¼æ¸©åº¦:";
 	cin >> a;
 	b = (a - 32)*5/9;
-	cout << fixed << setprecision(2)<<"ÉãÊÏÎÂ¶È£º" << b << endl;
+	cout << fixed << setprecision(2)<<"æ‘„æ°æ¸©åº¦ï¼š" << b << endl;
 	return 0;
 }
